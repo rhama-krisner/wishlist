@@ -7,7 +7,7 @@
 
 #### Documentação:
 [Swagger](https://qi-wishlist.herokuapp.com/swagger/)
-___
+
 [Redoc](https://qi-wishlist.herokuapp.com/redoc/)
 ___
 
