@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'django_filters',
     'lista',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
@@ -85,18 +86,6 @@ DATABASES = {
         'NAME': str(os.path.join(BASE_DIR, "db.sqlite3"))
     }
 }
-
-#Para usar com Postgres
-
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-#         'NAME': 'postgres',
-#         'USER': 'postgres',
-#         'HOST': 'db',
-#         'PORT': 5432,
-#     }
-# }
 
 #Para usar com o banco de dados MongoDB Atlas
 
