@@ -11,6 +11,9 @@
 [Redoc](https://qi-wishlist.herokuapp.com/redoc/)
 ___
 
+Esta api tem o objetivo de criar uma simples lista de desejos, onde você pode estar colocando:
+Produto
+
 <i>Fique à vontade para testar.</i>
 
 
