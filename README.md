@@ -7,7 +7,6 @@
   * Caso queira testar em sua máquina, é necessário instalar o python3. 
   * Todo o projeto foi criado com a última atualização do python, a versão 3.10
 * Quando for rodar o projeto na sua máquina, você pode usar as configurações padrão do banco de dados nativo do Django.
-
 * Caso queira, já está pré configurado para usar o MongoDB Atlas. Para usar, basta descomentar o código.
 
 #### Documentação:
